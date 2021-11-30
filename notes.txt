@@ -1,0 +1,6 @@
+npm install --save typescript @types/node @types/react-dom @types/jest
+
+App.tsx
+index.tsx
+
+npm start # creates tsconfig.json
